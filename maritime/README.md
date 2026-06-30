@@ -48,6 +48,32 @@ across three dimensions: maritime, aviation and land.
 Top **50** container ports by container throughput. Cargo tonnage, vessel calls
 and additional dimensions (aviation, land) are planned for future versions.
 
+## Usage
+
+```python
+import pandas as pd
+df = pd.read_csv("ports.csv")                 # or pd.read_parquet("ports.parquet")
+print(df.sort_values("rank").head(10)[["rank", "port_name", "country", "teu", "yoy"]])
+```
+
+```python
+# Read the Parquet straight from the Hugging Face hub (no manual download)
+import pandas as pd
+df = pd.read_parquet("hf://datasets/dsfox/worlds-largest-container-ports/ports.parquet")
+```
+
+```sql
+-- DuckDB: query the Hugging Face Parquet in place
+INSTALL httpfs; LOAD httpfs;
+SELECT rank, port_name, country, teu
+FROM 'hf://datasets/dsfox/worlds-largest-container-ports/ports.parquet'
+ORDER BY rank LIMIT 10;
+```
+
+**Notebooks (Kaggle):**
+[starter](https://www.kaggle.com/code/dsfoxx/worlds-largest-container-ports-starter)
+· [EDA](https://www.kaggle.com/code/dsfoxx/worlds-largest-container-ports-eda).
+
 ## License
 
 Released under **CC0 1.0** — public domain. Free for **any** use, including

@@ -51,6 +51,32 @@ across three dimensions: maritime, aviation and land. (Passengers are out of sco
 
 Top **50** airports by air cargo throughput.
 
+## Usage
+
+```python
+import pandas as pd
+df = pd.read_csv("airports.csv")              # or pd.read_parquet("airports.parquet")
+print(df.sort_values("rank").head(10)[["rank", "airport_name", "iata", "country", "cargo_tonnes", "yoy"]])
+```
+
+```python
+# Read the Parquet straight from the Hugging Face hub (no manual download)
+import pandas as pd
+df = pd.read_parquet("hf://datasets/dsfox/worlds-largest-cargo-airports/airports.parquet")
+```
+
+```sql
+-- DuckDB: query the Hugging Face Parquet in place
+INSTALL httpfs; LOAD httpfs;
+SELECT rank, airport_name, iata, country, cargo_tonnes
+FROM 'hf://datasets/dsfox/worlds-largest-cargo-airports/airports.parquet'
+ORDER BY rank LIMIT 10;
+```
+
+**Notebooks (Kaggle):**
+[starter](https://www.kaggle.com/code/dsfoxx/worlds-largest-cargo-airports-starter)
+· [EDA](https://www.kaggle.com/code/dsfoxx/worlds-largest-cargo-airports-eda).
+
 ## License
 
 Released under **CC0 1.0** — public domain. Free for **any** use, including

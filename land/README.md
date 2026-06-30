@@ -54,6 +54,32 @@ airports, inland terminals report on **inconsistent bases** (handled TEU,
 intermodal lifts, or design capacity) and reporting years differ, so ranks are
 indicative rather than strictly comparable. Pure border crossings are excluded.
 
+## Usage
+
+```python
+import pandas as pd
+df = pd.read_csv("hubs.csv")                   # or pd.read_parquet("hubs.parquet")
+print(df.sort_values("rank").head(10)[["rank", "hub_name", "country", "teu", "yoy"]])
+```
+
+```python
+# Read the Parquet straight from the Hugging Face hub (no manual download)
+import pandas as pd
+df = pd.read_parquet("hf://datasets/dsfox/worlds-largest-inland-freight-hubs/hubs.parquet")
+```
+
+```sql
+-- DuckDB: query the Hugging Face Parquet in place
+INSTALL httpfs; LOAD httpfs;
+SELECT rank, hub_name, country, teu
+FROM 'hf://datasets/dsfox/worlds-largest-inland-freight-hubs/hubs.parquet'
+ORDER BY rank LIMIT 10;
+```
+
+**Notebooks (Kaggle):**
+[starter](https://www.kaggle.com/code/dsfoxx/worlds-largest-inland-freight-hubs-starter)
+· [EDA](https://www.kaggle.com/code/dsfoxx/worlds-largest-inland-freight-hubs-eda).
+
 ## License
 
 Released under **CC0 1.0** — public domain. Free for **any** use, including
