@@ -36,6 +36,7 @@ aviation and land. (Passengers are out of scope.)
 |---|---|---|
 | `rank` | int | Rank by container throughput |
 | `hub_name` | string | Hub / terminal name |
+| `unlocode` | string | UN/LOCODE (UNECE) — 5-char location code of the hub's city/place, e.g. `DEDUI`; blank if none |
 | `city` | string | City |
 | `country` | string | Country |
 | `country_iso2` | string | ISO 3166-1 alpha-2 country code |

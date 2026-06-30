@@ -33,6 +33,7 @@ across three dimensions: maritime, aviation and land.
 |---|---|---|
 | `rank` | int | Rank by container throughput |
 | `port_name` | string | Port name |
+| `unlocode` | string | UN/LOCODE (UNECE) — 5-char location code (country + place), e.g. `CNSHA`; blank if none |
 | `country` | string | Country |
 | `country_iso2` | string | ISO 3166-1 alpha-2 country code |
 | `region` | string | Geographic region |

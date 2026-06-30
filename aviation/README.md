@@ -36,6 +36,7 @@ across three dimensions: maritime, aviation and land. (Passengers are out of sco
 | `airport_name` | string | Airport name |
 | `iata` | string | IATA code |
 | `icao` | string | ICAO code |
+| `unlocode` | string | UN/LOCODE (UNECE) — 5-char location code, e.g. `HKHKG`; blank if none |
 | `city` | string | City |
 | `country` | string | Country |
 | `country_iso2` | string | ISO 3166-1 alpha-2 country code |

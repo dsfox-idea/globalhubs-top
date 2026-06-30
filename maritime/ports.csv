@@ -1,51 +1,51 @@
-rank,port_name,country,country_iso2,region,latitude,longitude,teu,yoy,operator,website
-1,Shanghai,China,CN,East Asia,30.62639,122.06472,55060000,6.9,Shanghai International Port Group (SIPG),https://en.portshanghai.com.cn/
-2,Singapore,Singapore,SG,Southeast Asia,1.2644,103.84,44660000,8.6,PSA Singapore,https://www.singaporepsa.com/
-3,Ningbo-Zhoushan,China,CN,East Asia,29.93333,121.83333,43870000,11.6,Ningbo Zhoushan Port Group,https://www.zjseaport.com/
-4,Shenzhen,China,CN,East Asia,22.5,113.88333,35000000,4.9,,
-5,Qingdao,China,CN,East Asia,36.0833,120.317,34200000,10.8,Qingdao Port International Co.,https://www.qingdao-port.com/portal/en
-6,Guangzhou,China,CN,East Asia,23.09387,113.43779,28000000,7.4,Guangzhou Port Group,https://en.gzport.com/
-7,Busan,South Korea,KR,East Asia,35.10389,129.07889,24880000,2.0,Busan Port Authority (BPA),https://www.busanpa.com/
-8,Tianjin,China,CN,East Asia,38.97583,117.7875,20810000,-10.6,Tianjin Port (Group) Co.,https://www.ptacn.com/
-9,Jebel Ali Dubai,United Arab Emirates,AE,West Asia,25.01126,55.06116,15552000,0.1,DP World,https://www.dpworld.com/en/ports-terminals/uae/jebel-ali-port
-10,Port Klang,Malaysia,MY,Southeast Asia,3,101.4,15140000,3.4,Port Klang Authority,https://www.pka.gov.my/
-11,Rotterdam,Netherlands,NL,Europe,51.9496,4.1453,14200000,2.7,Port of Rotterdam Authority,https://www.portofrotterdam.com/
-12,Tanjung Pelepas,Malaysia,MY,Southeast Asia,1.3636,103.552,14028375,14.5,Pelabuhan Tanjung Pelepas (PTP),https://www.ptp.com.my/
-13,Antwerp,Belgium,BE,Europe,51.27,4.33667,13630000,0.7,Port of Antwerp-Bruges,https://www.portofantwerpbruges.com/
-14,Hong Kong,Hong Kong,HK,East Asia,22.33333,114.13333,12909000,-5.6,"Hongkong International Terminals (HIT, Hutchison Ports)",https://www.hit.com.hk/
-15,Xiamen,China,CN,East Asia,24.50226,118.08453,12507700,2.1,Xiamen Port Holding Group,https://xpgco.com.cn/index.aspx
-16,Tanger-Med,Morocco,MA,North Africa,35.89,-5.501,11106164,8.4,Tanger Med Port Authority (TMPA),https://www.tangermedport.com/
-17,Taicang,China,CN,East Asia,31.564,121.174,10716000,10.8,Jiangsu Suzhou Port Group,https://www.suzport.com/
-18,Los Angeles,United States,US,North America,33.73,-118.2625,10239318,-0.6,Port of Los Angeles (LA Harbor Dept),https://www.portoflosangeles.org/
-19,Laem Chabang,Thailand,TH,Southeast Asia,13.08333,100.88333,10154243,6.3,Port Authority of Thailand (PAT),https://www.port.co.th/
-20,Beibu Gulf,China,CN,East Asia,21.70167,108.61306,10000000,10.9,Guangxi Beibu Gulf International Port Group,https://www.bbwgw.com/en
-21,Long Beach,United States,US,North America,33.76833,-118.19556,9881595,2.4,Port of Long Beach (LB Harbor Dept),https://polb.com/
-22,Ho Chi Minh Saigon,Vietnam,VN,Southeast Asia,10.76833,106.7075,9158000,0.0,Saigon Newport Corporation (SNP),https://saigonnewport.com.vn/en
-23,New York / New Jersey,United States,US,North America,40.66833,-74.04556,8897531,2.3,Port Authority of New York and New Jersey,https://www.panynj.gov/
-24,Kaohsiung,Taiwan,TW,East Asia,22.61333,120.27917,8885855,-3.7,Taiwan International Ports Corporation (TIPC),https://www.twport.com.tw/en/
-25,Haiphong,Vietnam,VN,Southeast Asia,20.86514,106.68383,8350000,16.8,Port of Hai Phong JSC,https://haiphongport.com.vn/en/home
-26,Hamburg,Germany,DE,Europe,53.5403,9.932,8300000,6.4,Hamburger Hafen und Logistik AG (HHLA),https://hhla.de
-27,Tanjung Priok,Indonesia,ID,Southeast Asia,-6.104,106.8865,8300000,6.0,Pelindo (PT Pelabuhan Indonesia),https://pelindo.co.id
-28,Colombo,Sri Lanka,LK,South Asia,6.95278,79.84472,8291178,6.6,Sri Lanka Ports Authority (SLPA),https://www.slpa.lk
-29,Mundra,India,IN,South Asia,22.746,69.7,8217000,0.0,Adani Ports and SEZ (APSEZ),https://www.adaniports.com
-30,Jawaharlal Nehru,India,IN,South Asia,18.95,72.95,7940000,12.6,Jawaharlal Nehru Port Authority (JNPA),https://www.jnport.gov.in
-31,Cai Mep,Vietnam,VN,Southeast Asia,10.386,107.085,7500000,5.9,Saigon Newport Corporation (SNP),https://saigonnewport.com.vn
-32,Rizhao,China,CN,East Asia,35.417,119.527,7370000,9.8,Rizhao Port Group (Shandong Port Group),
-33,Lianyungang,China,CN,East Asia,34.5966,119.2214,7159800,7.0,Lianyungang Port Holdings Group,http://www.lygport.com.cn
-34,Abu Dhabi,United Arab Emirates,AE,West Asia,24.83333,54.66667,6600000,21.7,AD Ports Group,https://www.adportsgroup.com
-35,Santos,Brazil,BR,South America,-23.98223,-46.29261,5900000,7.6,Santos Port Authority (SPA),https://www.portodesantos.com.br
-36,Yingkou,China,CN,East Asia,40.27889,122.095,5850000,5.2,Yingkou Port Group (Liaoning Port Group),
-37,Colón,Panama,PA,Central America,9.35722,-79.89861,5800000,7.5,Manzanillo International Terminal (SSA Marine/Carrix),https://www.ssamarine.pa
-38,Savannah,United States,US,North America,32.1287,-81.15191,5700000,2.8,Georgia Ports Authority (GPA),https://gaports.com
-39,Valencia,Spain,ES,Europe,39.4457,-0.3199,5662661,3.4,Port Authority of Valencia (Valenciaport),https://www.valenciaport.com
-40,Yantai,China,CN,East Asia,37.5333,121.3833,5560000,9.2,Yantai Port Group (Shandong Port Group),
-41,Manila,Philippines,PH,Southeast Asia,14.59667,120.95444,5500000,-0.1,International Container Terminal Services (ICTSI),https://www.ictsi.com
-42,Dalian,China,CN,East Asia,38.93333,121.65,5480000,1.5,Liaoning Port Co. (Liaoning Port Group),
-43,Bremen,Germany,DE,Europe,53.57,8.544,4900000,10.2,bremenports GmbH & Co. KG,https://www.bremenports.de
-44,Tokyo,Japan,JP,East Asia,35.61694,139.79556,4860000,3.4,Tokyo Port Terminal Corporation (TPTC),https://www.tptc.co.jp
-45,Algeciras,Spain,ES,Europe,36.136,-5.435,4740000,0.6,Port Authority of the Bay of Algeciras (APBA),https://www.apba.es
-46,Piraeus,Greece,GR,Europe,37.94194,23.63611,4641294,-3.1,"Piraeus Port Authority (PPA, COSCO Shipping)",https://www.olp.gr
-47,Tanjung Perak,Indonesia,ID,Southeast Asia,-7.19833,112.72278,4397256,2.3,Pelindo (PT Pelabuhan Indonesia),https://pelindo.co.id
-48,Houston,United States,US,North America,29.71667,-95.25,4303345,3.9,Port Houston (Port of Houston Authority),https://porthouston.com
-49,Dongguan,China,CN,East Asia,23.021,113.752,4050000,0.8,Dongguan Port Group,https://www.dgportgroup.com
-50,Balboa,Panama,PA,Central America,8.95,-79.56667,2700000,-32.7,Panama Ports Company (Hutchison Ports),
+rank,port_name,unlocode,country,country_iso2,region,latitude,longitude,teu,yoy,operator,website
+1,Shanghai,CNSHA,China,CN,East Asia,30.62639,122.06472,55060000,6.9,Shanghai International Port Group (SIPG),https://en.portshanghai.com.cn/
+2,Singapore,SGSIN,Singapore,SG,Southeast Asia,1.2644,103.84,44660000,8.6,PSA Singapore,https://www.singaporepsa.com/
+3,Ningbo-Zhoushan,CNNGB,China,CN,East Asia,29.93333,121.83333,43870000,11.6,Ningbo Zhoushan Port Group,https://www.zjseaport.com/
+4,Shenzhen,CNSZX,China,CN,East Asia,22.5,113.88333,35000000,4.9,,
+5,Qingdao,CNTAO,China,CN,East Asia,36.0833,120.317,34200000,10.8,Qingdao Port International Co.,https://www.qingdao-port.com/portal/en
+6,Guangzhou,CNGGZ,China,CN,East Asia,23.09387,113.43779,28000000,7.4,Guangzhou Port Group,https://en.gzport.com/
+7,Busan,KRPUS,South Korea,KR,East Asia,35.10389,129.07889,24880000,2.0,Busan Port Authority (BPA),https://www.busanpa.com/
+8,Tianjin,CNTSN,China,CN,East Asia,38.97583,117.7875,20810000,-10.6,Tianjin Port (Group) Co.,https://www.ptacn.com/
+9,Jebel Ali Dubai,AEJEA,United Arab Emirates,AE,West Asia,25.01126,55.06116,15552000,0.1,DP World,https://www.dpworld.com/en/ports-terminals/uae/jebel-ali-port
+10,Port Klang,MYPKG,Malaysia,MY,Southeast Asia,3,101.4,15140000,3.4,Port Klang Authority,https://www.pka.gov.my/
+11,Rotterdam,NLRTM,Netherlands,NL,Europe,51.9496,4.1453,14200000,2.7,Port of Rotterdam Authority,https://www.portofrotterdam.com/
+12,Tanjung Pelepas,MYTPP,Malaysia,MY,Southeast Asia,1.3636,103.552,14028375,14.5,Pelabuhan Tanjung Pelepas (PTP),https://www.ptp.com.my/
+13,Antwerp,BEANR,Belgium,BE,Europe,51.27,4.33667,13630000,0.7,Port of Antwerp-Bruges,https://www.portofantwerpbruges.com/
+14,Hong Kong,HKHKG,Hong Kong,HK,East Asia,22.33333,114.13333,12909000,-5.6,"Hongkong International Terminals (HIT, Hutchison Ports)",https://www.hit.com.hk/
+15,Xiamen,CNXMN,China,CN,East Asia,24.50226,118.08453,12507700,2.1,Xiamen Port Holding Group,https://xpgco.com.cn/index.aspx
+16,Tanger-Med,MAPTM,Morocco,MA,North Africa,35.89,-5.501,11106164,8.4,Tanger Med Port Authority (TMPA),https://www.tangermedport.com/
+17,Taicang,CNTAC,China,CN,East Asia,31.564,121.174,10716000,10.8,Jiangsu Suzhou Port Group,https://www.suzport.com/
+18,Los Angeles,USLAX,United States,US,North America,33.73,-118.2625,10239318,-0.6,Port of Los Angeles (LA Harbor Dept),https://www.portoflosangeles.org/
+19,Laem Chabang,THLCH,Thailand,TH,Southeast Asia,13.08333,100.88333,10154243,6.3,Port Authority of Thailand (PAT),https://www.port.co.th/
+20,Beibu Gulf,CNQZH,China,CN,East Asia,21.70167,108.61306,10000000,10.9,Guangxi Beibu Gulf International Port Group,https://www.bbwgw.com/en
+21,Long Beach,USLGB,United States,US,North America,33.76833,-118.19556,9881595,2.4,Port of Long Beach (LB Harbor Dept),https://polb.com/
+22,Ho Chi Minh Saigon,VNSGN,Vietnam,VN,Southeast Asia,10.76833,106.7075,9158000,0.0,Saigon Newport Corporation (SNP),https://saigonnewport.com.vn/en
+23,New York / New Jersey,USNYC,United States,US,North America,40.66833,-74.04556,8897531,2.3,Port Authority of New York and New Jersey,https://www.panynj.gov/
+24,Kaohsiung,TWKHH,Taiwan,TW,East Asia,22.61333,120.27917,8885855,-3.7,Taiwan International Ports Corporation (TIPC),https://www.twport.com.tw/en/
+25,Haiphong,VNHPH,Vietnam,VN,Southeast Asia,20.86514,106.68383,8350000,16.8,Port of Hai Phong JSC,https://haiphongport.com.vn/en/home
+26,Hamburg,DEHAM,Germany,DE,Europe,53.5403,9.932,8300000,6.4,Hamburger Hafen und Logistik AG (HHLA),https://hhla.de
+27,Tanjung Priok,IDTPP,Indonesia,ID,Southeast Asia,-6.104,106.8865,8300000,6.0,Pelindo (PT Pelabuhan Indonesia),https://pelindo.co.id
+28,Colombo,LKCMB,Sri Lanka,LK,South Asia,6.95278,79.84472,8291178,6.6,Sri Lanka Ports Authority (SLPA),https://www.slpa.lk
+29,Mundra,INMUN,India,IN,South Asia,22.746,69.7,8217000,0.0,Adani Ports and SEZ (APSEZ),https://www.adaniports.com
+30,Jawaharlal Nehru,INNSA,India,IN,South Asia,18.95,72.95,7940000,12.6,Jawaharlal Nehru Port Authority (JNPA),https://www.jnport.gov.in
+31,Cai Mep,VNCMT,Vietnam,VN,Southeast Asia,10.386,107.085,7500000,5.9,Saigon Newport Corporation (SNP),https://saigonnewport.com.vn
+32,Rizhao,CNRZH,China,CN,East Asia,35.417,119.527,7370000,9.8,Rizhao Port Group (Shandong Port Group),
+33,Lianyungang,CNLYG,China,CN,East Asia,34.5966,119.2214,7159800,7.0,Lianyungang Port Holdings Group,http://www.lygport.com.cn
+34,Abu Dhabi,AEKHL,United Arab Emirates,AE,West Asia,24.83333,54.66667,6600000,21.7,AD Ports Group,https://www.adportsgroup.com
+35,Santos,BRSSZ,Brazil,BR,South America,-23.98223,-46.29261,5900000,7.6,Santos Port Authority (SPA),https://www.portodesantos.com.br
+36,Yingkou,CNYKO,China,CN,East Asia,40.27889,122.095,5850000,5.2,Yingkou Port Group (Liaoning Port Group),
+37,Colón,PAONX,Panama,PA,Central America,9.35722,-79.89861,5800000,7.5,Manzanillo International Terminal (SSA Marine/Carrix),https://www.ssamarine.pa
+38,Savannah,USSAV,United States,US,North America,32.1287,-81.15191,5700000,2.8,Georgia Ports Authority (GPA),https://gaports.com
+39,Valencia,ESVLC,Spain,ES,Europe,39.4457,-0.3199,5662661,3.4,Port Authority of Valencia (Valenciaport),https://www.valenciaport.com
+40,Yantai,CNYNT,China,CN,East Asia,37.5333,121.3833,5560000,9.2,Yantai Port Group (Shandong Port Group),
+41,Manila,PHMNL,Philippines,PH,Southeast Asia,14.59667,120.95444,5500000,-0.1,International Container Terminal Services (ICTSI),https://www.ictsi.com
+42,Dalian,CNDAL,China,CN,East Asia,38.93333,121.65,5480000,1.5,Liaoning Port Co. (Liaoning Port Group),
+43,Bremen,DEBRV,Germany,DE,Europe,53.57,8.544,4900000,10.2,bremenports GmbH & Co. KG,https://www.bremenports.de
+44,Tokyo,JPTYO,Japan,JP,East Asia,35.61694,139.79556,4860000,3.4,Tokyo Port Terminal Corporation (TPTC),https://www.tptc.co.jp
+45,Algeciras,ESALG,Spain,ES,Europe,36.136,-5.435,4740000,0.6,Port Authority of the Bay of Algeciras (APBA),https://www.apba.es
+46,Piraeus,GRPIR,Greece,GR,Europe,37.94194,23.63611,4641294,-3.1,"Piraeus Port Authority (PPA, COSCO Shipping)",https://www.olp.gr
+47,Tanjung Perak,IDSUB,Indonesia,ID,Southeast Asia,-7.19833,112.72278,4397256,2.3,Pelindo (PT Pelabuhan Indonesia),https://pelindo.co.id
+48,Houston,USHOU,United States,US,North America,29.71667,-95.25,4303345,3.9,Port Houston (Port of Houston Authority),https://porthouston.com
+49,Dongguan,CNDGG,China,CN,East Asia,23.021,113.752,4050000,0.8,Dongguan Port Group,https://www.dgportgroup.com
+50,Balboa,PABLB,Panama,PA,Central America,8.95,-79.56667,2700000,-32.7,Panama Ports Company (Hutchison Ports),
