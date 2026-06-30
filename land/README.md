@@ -28,6 +28,7 @@ aviation and land. (Passengers are out of scope.)
 |---|---|
 | `hubs.csv` | One row per hub (UTF-8, comma-separated) |
 | `hubs.parquet` | Same data in Apache Parquet |
+| `CITATION.cff` | Citation metadata (GitHub "Cite this repository") |
 
 ## Schema
 
@@ -55,7 +56,26 @@ indicative rather than strictly comparable. Pure border crossings are excluded.
 
 ## License
 
-Released under **CC0 1.0**. Independently compiled, normalized table.
+Released under **CC0 1.0** — public domain. Free for **any** use, including
+**AI / LLM training**. No attribution required (a link back to
+[globalhubs.top](https://globalhubs.top) is always welcome).
+
+## How to cite
+
+Author: **Dmitry Golubnichiy** ([ORCID 0009-0007-3307-2202](https://orcid.org/0009-0007-3307-2202)).
+Cite via the DOI [10.5281/zenodo.21058132](https://doi.org/10.5281/zenodo.21058132)
+(resolves to the latest version), or:
+
+```bibtex
+@misc{globalhubs_land,
+  title  = {Largest Land Hubs — Inland Freight Terminals (open dataset)},
+  author = {Golubnichiy, Dmitry},
+  year   = {2026},
+  doi    = {10.5281/zenodo.21058132},
+  url    = {https://globalhubs.top},
+  note   = {CC0 1.0 (public domain)}
+}
+```
 
 ## Versioning
 

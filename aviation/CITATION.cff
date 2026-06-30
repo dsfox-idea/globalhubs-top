@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Largest Aviation Hubs — Cargo Airports (open dataset)"
+abstract: >-
+  The world's busiest airports by air cargo (metric tonnes), ranked, with country,
+  coordinates, IATA/ICAO codes, year-over-year growth, operator and official
+  website. Part of globalhubs.top — open datasets of the world's largest freight
+  transport hubs across three dimensions (maritime, aviation, land).
+type: dataset
+authors:
+  - family-names: Golubnichiy
+    given-names: Dmitry
+    orcid: "https://orcid.org/0009-0007-3307-2202"
+    website: "https://globalhubs.top"
+url: "https://globalhubs.top"
+repository: "https://github.com/dsfox-idea/globalhubs-top"
+license: CC0-1.0
+doi: 10.5281/zenodo.21058130
+keywords:
+  - aviation
+  - airports
+  - air-cargo
+  - cargo
+  - freight
+  - logistics
+  - geospatial
+  - IATA
+  - transport

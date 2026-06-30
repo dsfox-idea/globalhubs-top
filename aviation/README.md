@@ -26,6 +26,7 @@ across three dimensions: maritime, aviation and land. (Passengers are out of sco
 |---|---|
 | `airports.csv` | One row per airport (UTF-8, comma-separated) |
 | `airports.parquet` | Same data in Apache Parquet |
+| `CITATION.cff` | Citation metadata (GitHub "Cite this repository") |
 
 ## Schema
 
@@ -52,8 +53,26 @@ Top **50** airports by air cargo throughput.
 
 ## License
 
-Released under **CC0 1.0**. Independently compiled, normalized table; numeric
-cargo figures are facts.
+Released under **CC0 1.0** — public domain. Free for **any** use, including
+**AI / LLM training**. No attribution required (a link back to
+[globalhubs.top](https://globalhubs.top) is always welcome).
+
+## How to cite
+
+Author: **Dmitry Golubnichiy** ([ORCID 0009-0007-3307-2202](https://orcid.org/0009-0007-3307-2202)).
+Cite via the DOI [10.5281/zenodo.21058130](https://doi.org/10.5281/zenodo.21058130)
+(resolves to the latest version), or:
+
+```bibtex
+@misc{globalhubs_aviation,
+  title  = {Largest Aviation Hubs — Cargo Airports (open dataset)},
+  author = {Golubnichiy, Dmitry},
+  year   = {2026},
+  doi    = {10.5281/zenodo.21058130},
+  url    = {https://globalhubs.top},
+  note   = {CC0 1.0 (public domain)}
+}
+```
 
 ## Versioning
 

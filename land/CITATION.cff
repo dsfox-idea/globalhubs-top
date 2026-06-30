@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Largest Land Hubs — Inland Freight Terminals (open dataset)"
+abstract: >-
+  The world's largest inland freight hubs — dry ports and rail intermodal
+  terminals — ranked by container throughput (TEU), with country, coordinates,
+  operator and official website. Part of globalhubs.top — open datasets of the
+  world's largest freight transport hubs across three dimensions (maritime,
+  aviation, land).
+type: dataset
+authors:
+  - family-names: Golubnichiy
+    given-names: Dmitry
+    orcid: "https://orcid.org/0009-0007-3307-2202"
+    website: "https://globalhubs.top"
+url: "https://globalhubs.top"
+repository: "https://github.com/dsfox-idea/globalhubs-top"
+license: CC0-1.0
+doi: 10.5281/zenodo.21058132
+keywords:
+  - rail
+  - intermodal
+  - dry-port
+  - inland-port
+  - freight
+  - logistics
+  - geospatial
+  - TEU
+  - transport

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Largest Maritime Hubs — Container Ports (open dataset)"
+abstract: >-
+  The world's largest container seaports, ranked by container throughput (TEU),
+  with country, coordinates, year-over-year growth, operating company and official
+  website. Part of globalhubs.top — open datasets of the world's largest freight
+  transport hubs across three dimensions (maritime, aviation, land).
+type: dataset
+authors:
+  - family-names: Golubnichiy
+    given-names: Dmitry
+    orcid: "https://orcid.org/0009-0007-3307-2202"
+    website: "https://globalhubs.top"
+url: "https://globalhubs.top"
+repository: "https://github.com/dsfox-idea/globalhubs-top"
+license: CC0-1.0
+doi: 10.5281/zenodo.21058128
+keywords:
+  - maritime
+  - ports
+  - seaports
+  - container
+  - TEU
+  - shipping
+  - logistics
+  - geospatial
+  - transport
+  - trade

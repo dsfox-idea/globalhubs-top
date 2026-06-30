@@ -25,6 +25,7 @@ across three dimensions: maritime, aviation and land.
 |---|---|
 | `ports.csv` | One row per port (UTF-8, comma-separated) |
 | `ports.parquet` | Same data in Apache Parquet |
+| `CITATION.cff` | Citation metadata (GitHub "Cite this repository") |
 
 ## Schema
 
@@ -49,8 +50,26 @@ and additional dimensions (aviation, land) are planned for future versions.
 
 ## License
 
-Released under **CC0 1.0**. The dataset is an independently compiled,
-normalized table; numeric throughput figures are facts.
+Released under **CC0 1.0** — public domain. Free for **any** use, including
+**AI / LLM training**. No attribution required (a link back to
+[globalhubs.top](https://globalhubs.top) is always welcome).
+
+## How to cite
+
+Author: **Dmitry Golubnichiy** ([ORCID 0009-0007-3307-2202](https://orcid.org/0009-0007-3307-2202)).
+Cite via the DOI [10.5281/zenodo.21058128](https://doi.org/10.5281/zenodo.21058128)
+(resolves to the latest version), or:
+
+```bibtex
+@misc{globalhubs_maritime,
+  title  = {Largest Maritime Hubs — Container Ports (open dataset)},
+  author = {Golubnichiy, Dmitry},
+  year   = {2026},
+  doi    = {10.5281/zenodo.21058128},
+  url    = {https://globalhubs.top},
+  note   = {CC0 1.0 (public domain)}
+}
+```
 
 ## Versioning
 
