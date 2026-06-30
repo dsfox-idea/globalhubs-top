@@ -1,0 +1,51 @@
+rank,hub_name,city,country,country_iso2,region,latitude,longitude,teu,yoy,operator,website
+1,Port of Duisburg (duisport),Duisburg,Germany,DE,Europe,51.45,6.76,3900000,8.3,Duisburger Hafen AG (duisport),https://www.duisport.de/
+2,BNSF Alliance,Fort Worth,United States,US,North America,32.99,-97.32,1800000,,BNSF Railway,https://www.bnsf.com/
+3,CN Brampton Intermodal,Brampton,Canada,CA,North America,43.73,-79.76,1800000,,Canadian National Railway (CN),https://www.cn.ca/
+4,BNSF Logistics Park Chicago,Joliet,United States,US,North America,41.4,-88.1,1607951,,BNSF Railway,https://www.bnsf.com/
+5,CSX Bedford Park,Chicago,United States,US,North America,41.77,-87.79,1508702,,CSX Transportation,https://www.csx.com/
+6,Lat Krabang ICD,Bangkok,Thailand,TH,Southeast Asia,13.72,100.75,1382000,0.9,State Railway of Thailand (multi-concession),
+7,Uiwang ICD,Uiwang,South Korea,KR,East Asia,37.34,126.96,1269102,,Uiwang ICD Co. (KCTC consortium),http://www.uicd.co.kr/
+8,BNSF Memphis Intermodal,Memphis,United States,US,North America,35.06,-89.98,1080000,,BNSF Railway,https://www.bnsf.com/
+9,BNSF Logistics Park Kansas City,Edgerton,United States,US,North America,38.77,-95.0,900000,,BNSF Railway,https://www.bnsf.com/
+10,Ferrovalle (Pantaco),Mexico City,Mexico,MX,Latin America,19.47,-99.16,900000,,Ferrovalle (Ferrocarril y Terminal del Valle de México),https://www.ferrovalle.com.mx/
+11,Interporto Quadrante Europa,Verona,Italy,IT,Europe,45.4,10.93,717419,2.2,Consorzio ZAI,https://www.quadranteeuropa.it/
+12,Hupac Busto Arsizio-Gallarate,Busto Arsizio,Italy,IT,Europe,45.61,8.85,714000,,Hupac,https://www.hupac.com/
+13,CPKC Vaughan Intermodal,Vaughan,Canada,CA,North America,43.84,-79.51,700000,,Canadian Pacific Kansas City (CPKC),https://www.cpkcr.com/
+14,UP Dallas Intermodal (Wilmer),Dallas,United States,US,North America,32.59,-96.69,657000,,Union Pacific Railroad,https://www.up.com/
+15,CSX 59th Street,Chicago,United States,US,North America,41.79,-87.65,639407,,CSX Transportation,https://www.csx.com/
+16,Port of Moerdijk,Moerdijk,Netherlands,NL,Europe,51.7,4.61,631000,,Havenbedrijf Moerdijk,https://www.portofmoerdijk.nl/
+17,UP Global IV (Joliet),Joliet,United States,US,North America,41.52,-88.04,625927,,Union Pacific Railroad,https://www.up.com/
+18,Metrans HUB Dunajská Streda,Dunajská Streda,Slovakia,SK,Europe,47.99,17.61,600000,,METRANS (HHLA),https://www.metrans.eu/
+19,Xi'an International Port,Xi'an,China,CN,East Asia,34.43,109.1,598000,30.0,Xi'an International Land Port Group (ITL),https://en.xaitlgroup.com/
+20,DUSS Hamburg-Billwerder,Hamburg,Germany,DE,Europe,53.51,10.1,560000,,DUSS mbH (Deutsche Bahn),https://duss-terminal.deutschebahn.com/duss
+21,DUSS München-Riem,Munich,Germany,DE,Europe,48.13,11.69,528000,,DUSS mbH (Deutsche Bahn),https://duss-terminal.deutschebahn.com/duss
+22,KTL Ludwigshafen,Ludwigshafen,Germany,DE,Europe,49.48,8.43,512000,,KTL Kombi-Terminal Ludwigshafen GmbH,https://ktl-lu.de/
+23,Riyadh Dry Port,Riyadh,Saudi Arabia,SA,West Asia,24.71,46.86,500000,,Saudi Arabia Railways (SAR),https://www.sar.com.sa/
+24,WienCont (Hafen Wien),Vienna,Austria,AT,Europe,48.2,16.47,470000,2.8,WienCont Container Terminal GmbH (Hafen Wien),https://www.wiencont.com/
+25,Interporto Padova,Padua,Italy,IT,Europe,45.39,11.93,411958,-7.5,Interporto Padova S.p.A.,https://www.interportopd.it/
+26,Inland Container Depot Nairobi,Nairobi,Kenya,KE,Africa,-1.32,36.9,404000,-7.0,Kenya Ports Authority (KPA),https://www.kpa.co.ke
+27,Metrans HUB Gądki,Poznań,Poland,PL,Europe,52.3,17.0,385400,,Metrans Polonia (HHLA),https://www.metranspolonia.pl
+28,Kunming rail container centre,Kunming,China,CN,East Asia,24.96,102.83,384000,,CR Intermodal (China United Intl Rail Container),
+29,Khorgos Gateway Dry Port,Khorgos (Altynkol),Kazakhstan,KZ,Central Asia,44.21,80.4,372000,2.0,KTZE-Khorgos Gateway (KTZ + DP World),https://www.ktze-khorgosgateway.kz
+30,SC Inland Port Greer,Greer,United States,US,North America,34.94,-82.23,369941,9.5,South Carolina Ports Authority,https://scspa.com
+31,Moorebank IMEX Terminal,Sydney,Australia,AU,Oceania,-33.93,150.92,350000,,Qube Holdings,https://moorebankintermodalprecinct.com.au
+32,CPKC Wylie Intermodal,Wylie,United States,US,North America,33.02,-96.54,342000,,Canadian Pacific Kansas City (CPKC),https://www.cpkcr.com
+33,bayernhafen Nürnberg (TriCon),Nuremberg,Germany,DE,Europe,49.45,11.08,337322,6.0,TriCon Container-Terminal Nürnberg GmbH,https://www.tricon-terminal.de
+34,City Deep Container Terminal,Johannesburg,South Africa,ZA,Africa,-26.23,28.07,320000,,Transnet Freight Rail,https://www.transnet.net
+35,ICD Tughlakabad (CONCOR),Delhi,India,IN,South Asia,28.51,77.3,300000,,Container Corporation of India (CONCOR),https://www.concorindia.co.in
+36,Ganzhou International Land Port,Ganzhou,China,CN,East Asia,25.85,114.94,289000,5.6,Ganzhou International Land Port Group,https://www.giiport.com
+37,Interpuerto San Luis Potosí,San Luis Potosí,Mexico,MX,Latin America,21.98,-100.93,280000,,CPKC (KCSM),
+38,Małaszewicze Dry Port,Małaszewicze,Poland,PL,Europe,52.02,23.52,280000,156.9,PKP Cargo Terminale,https://www.pkpcargoterminale.com
+39,TLC Bely Rast,Moscow,Russia,RU,CIS,56.08,37.32,272000,6.6,TLC Bely Rast (RZD + Liaoning Port Group),https://brterminal.ru
+40,ICD Dadri,Greater Noida,India,IN,South Asia,28.57,77.63,270665,,Container Corporation of India (CONCOR),https://www.concorindia.co.in
+41,Zhengzhou International Hub,Zhengzhou,China,CN,East Asia,34.75,113.79,267500,14.2,Zhengzhou International Hub Dev & Construction Co.,
+42,CSX Fairburn (Atlanta),Atlanta,United States,US,North America,33.57,-84.58,266400,,CSX Transportation,https://www.csx.com
+43,NS Rickenbacker (Columbus),Columbus,United States,US,North America,39.81,-82.93,250106,,Norfolk Southern,https://www.norfolksouthern.com
+44,Metrans HUB Budapest,Budapest,Hungary,HU,Europe,47.42,19.12,250000,,METRANS (HHLA),https://metrans.eu
+45,BILK Kombiterminal,Budapest,Hungary,HU,Europe,47.44,19.1,230000,,Rail Cargo Terminal – BILK (Rail Cargo Group/ÖBB),https://www.railcargobilk.hu
+46,Chongqing Tuanjiecun,Chongqing,China,CN,East Asia,29.71,106.42,222410,3.9,CR Intermodal (China Railway Container),
+47,Dostyk TransTerminal,Dostyk,Kazakhstan,KZ,Central Asia,45.26,82.49,221000,31.5,PTC Cargo (PTC Holding),https://ptc-cargo.kz
+48,Chengdu International Railway Port,Chengdu,China,CN,East Asia,30.87,104.2,217000,,Chengdu International Railway Port Group,https://www.cdiport.com
+49,MetroPort Auckland,Auckland,New Zealand,NZ,Oceania,-36.94,174.84,208742,-4.4,Port of Tauranga,https://www.port-tauranga.co.nz
+50,Yekaterinburg-Tovarny (TransContainer),Yekaterinburg,Russia,RU,CIS,56.84,60.65,190000,,PJSC TransContainer,https://trcont.com

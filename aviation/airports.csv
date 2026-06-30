@@ -1,0 +1,51 @@
+rank,airport_name,iata,icao,city,country,country_iso2,region,latitude,longitude,cargo_tonnes,yoy,operator,website
+1,Hong Kong International Airport,HKG,VHHH,Hong Kong,Hong Kong,HK,East Asia,22.30889,113.91444,5070256,2.7,Airport Authority Hong Kong,https://www.hongkongairport.com/
+2,Shanghai Pudong International Airport,PVG,ZSPD,Shanghai,China,CN,East Asia,31.14333,121.80528,4096016,8.6,Shanghai Airport Authority,https://www.shanghaiairport.com/
+3,Ted Stevens Anchorage International Airport,ANC,PANC,Anchorage,United States,US,North America,61.17417,-149.99833,3854614,4.2,Alaska DOT&PF,https://dot.alaska.gov/anc/
+4,Louisville Muhammad Ali International Airport,SDF,KSDF,Louisville,United States,US,North America,38.17417,-85.73639,3396437,13.5,Louisville Regional Airport Authority,https://www.flylouisville.com/
+5,Miami International Airport,MIA,KMIA,Miami,United States,US,North America,25.79333,-80.29056,3128165,13.6,Miami-Dade Aviation Department,https://www.miami-airport.com/
+6,Memphis International Airport,MEM,KMEM,Memphis,United States,US,North America,35.0425,-89.97667,2969502,-20.9,Memphis-Shelby County Airport Authority,https://www.flymemphis.com/
+7,Incheon International Airport,ICN,RKSI,Incheon,South Korea,KR,East Asia,37.46333,126.44,2954684,0.3,Incheon International Airport Corporation,https://www.airport.kr/
+8,Hamad International Airport,DOH,OTHH,Doha,Qatar,QA,West Asia,25.27306,51.60806,2614214,-0.1,MATAR (Qatar Company for Airports O&M),https://dohahamadairport.com/
+9,Taiwan Taoyuan International Airport,TPE,RCTP,Taoyuan,Taiwan,TW,East Asia,25.07639,121.22389,2499899,10.1,Taoyuan International Airport Corporation,https://www.taoyuan-airport.com/
+10,Guangzhou Baiyun International Airport,CAN,ZGGG,Guangzhou,China,CN,East Asia,23.3925,113.29889,2439248,2.4,Guangdong Airport Authority,https://www.baiyunairport.com/
+11,Chicago O'Hare International Airport,ORD,KORD,Chicago,United States,US,North America,41.97861,-87.90472,2231089,7.6,Chicago Department of Aviation,https://www.flychicago.com/
+12,Istanbul Airport,IST,LTFM,Istanbul,Turkey,TR,Europe,41.26222,28.72778,2086241,5.4,iGA (İGA Havalimanı İşletmesi),https://www.istairport.com/
+13,Singapore Changi Airport,SIN,WSSS,Singapore,Singapore,SG,Southeast Asia,1.35917,103.98944,2080000,4.5,Changi Airport Group,https://www.changiairport.com/
+14,Los Angeles International Airport,LAX,KLAX,Los Angeles,United States,US,North America,33.9425,-118.40806,2077346,-4.6,Los Angeles World Airports (LAWA),https://www.flylax.com/
+15,Frankfurt Airport,FRA,EDDF,Frankfurt,Germany,DE,Europe,50.03333,8.57056,2071665,1.1,Fraport AG,https://www.frankfurt-airport.com/
+16,Shenzhen Bao'an International Airport,SZX,ZGSZ,Shenzhen,China,CN,East Asia,22.63944,113.81083,2050836,9.0,Shenzhen Airport (Group) Co.,https://www.szairport.com/
+17,Dubai International Airport,DXB,OMDB,Dubai,United Arab Emirates,AE,West Asia,25.25278,55.36444,2050000,0.0,Dubai Airports,https://www.dubaiairports.ae/
+18,Narita International Airport,NRT,RJAA,Tokyo,Japan,JP,East Asia,35.76528,140.38556,2039731,4.8,Narita International Airport Corporation (NAA),https://www.narita-airport.jp/
+19,Paris Charles de Gaulle Airport,CDG,LFPG,Paris,France,FR,Europe,49.00972,2.54778,1920000,2.3,Groupe ADP (Aéroports de Paris),https://www.parisaeroport.fr/
+20,London Heathrow Airport,LHR,EGLL,London,United Kingdom,GB,Europe,51.4775,-0.46139,1592931,0.8,Heathrow Airport Limited,https://www.heathrow.com/
+21,Beijing Capital International Airport,PEK,ZBAA,Beijing,China,CN,East Asia,40.0725,116.5975,1550926,7.5,Beijing Capital International Airport Co.,https://www.bcia.com.cn/
+22,Suvarnabhumi Airport,BKK,VTBS,Bangkok,Thailand,TH,Southeast Asia,13.6925,100.75,1505940,10.1,Airports of Thailand (AOT),https://suvarnabhumi.airportthai.co.th/
+23,Amsterdam Airport Schiphol,AMS,EHAM,Amsterdam,Netherlands,NL,Europe,52.3,4.765,1430000,-4.0,Royal Schiphol Group,https://www.schiphol.nl/
+24,John F. Kennedy International Airport,JFK,KJFK,New York,United States,US,North America,40.63972,-73.77889,1412547,-6.8,Port Authority of New York and New Jersey,https://www.jfkairport.com/
+25,Leipzig/Halle Airport,LEJ,EDDP,Leipzig,Germany,DE,Europe,51.42389,12.23639,1388800,0.4,Flughafen Leipzig/Halle GmbH (Mitteldeutsche Flughafen),https://www.leipzig-halle-airport.de/
+26,Liège Airport,LGG,EBLG,Liège,Belgium,BE,Europe,50.63639,5.44278,1324579,14.0,Liège Airport SA,https://www.liegeairport.com
+27,Indira Gandhi International Airport,DEL,VIDP,Delhi,India,IN,South Asia,28.56861,77.11222,1150000,4.0,"Delhi International Airport Ltd (DIAL, GMR)",https://www.newdelhiairport.in
+28,Ezhou Huahu International Airport,EHU,ZHEC,Ezhou,China,CN,East Asia,30.34286,115.02961,1145700,32.4,Hubei International Logistics Airport Co. (SF Express JV),
+29,Noi Bai International Airport,HAN,VVNB,Hanoi,Vietnam,VN,Southeast Asia,21.21389,105.80306,950000,,Airports Corporation of Vietnam (ACV),https://noibaiairport.vn
+30,Chhatrapati Shivaji Maharaj International Airport,BOM,VABB,Mumbai,India,IN,South Asia,19.08861,72.86806,860000,-3.0,"Mumbai International Airport Ltd (MIAL, Adani)",https://csmia-mumbai.adaniairports.com
+31,Adolfo Suárez Madrid–Barajas Airport,MAD,LEMD,Madrid,Spain,ES,Europe,40.47222,-3.56083,840331,9.6,Aena,https://www.aena.es/en/adolfo-suarez-madrid-barajas.html
+32,Cologne Bonn Airport,CGN,EDDK,Cologne,Germany,DE,Europe,50.86583,7.14278,840000,0.0,Flughafen Köln/Bonn GmbH,https://www.cologne-bonn-airport.com/en/
+33,Kuala Lumpur International Airport,KUL,WMKK,Kuala Lumpur,Malaysia,MY,Southeast Asia,2.74333,101.69806,833623,4.9,Malaysia Airports Holdings (MAHB),https://www.malaysiaairports.com.my/en/klia1
+34,Luxembourg Airport,LUX,ELLX,Luxembourg,Luxembourg,LU,Europe,49.62333,6.20444,817920,-0.9,lux-Airport (Société de l'Aéroport de Luxembourg),https://www.lux-airport.lu/
+35,Indianapolis International Airport,IND,KIND,Indianapolis,United States,US,North America,39.71722,-86.29444,815633,-1.0,Indianapolis Airport Authority (IAA),https://www.ind.com/
+36,Brussels Airport,BRU,EBBR,Brussels,Belgium,BE,Europe,50.90139,4.48444,795000,8.5,Brussels Airport Company,https://www.brusselsairport.be
+37,Hangzhou Xiaoshan International Airport,HGH,ZSHC,Hangzhou,China,CN,East Asia,30.23711,120.43194,792710,7.9,Hangzhou Xiaoshan International Airport Co.,https://www.hzairport.com
+38,Kansai International Airport,KIX,RJBB,Osaka,Japan,JP,East Asia,34.43056,135.23028,786814,3.9,Kansai Airports,https://www.kansai-airports.co.jp
+39,Dallas Fort Worth International Airport,DFW,KDFW,Dallas,United States,US,North America,32.89694,-97.03806,779228,4.9,DFW International Airport Board,https://www.dfwairport.com
+40,Zayed International Airport,AUH,OMAA,Abu Dhabi,United Arab Emirates,AE,West Asia,24.43306,54.65111,770000,12.0,Abu Dhabi Airports,https://www.adairports.ae
+41,Milan Malpensa Airport,MXP,LIMC,Milan,Italy,IT,Europe,45.63,8.72306,764171,4.0,SEA S.p.A.,https://www.milanomalpensa-airport.com/en
+42,Tokyo Haneda Airport,HND,RJTT,Tokyo,Japan,JP,East Asia,35.55333,139.78111,743622,5.5,Japan Airport Terminal Co. / TIAT,https://tokyo-haneda.com/en/
+43,Chengdu Shuangliu International Airport,CTU,ZUUU,Chengdu,China,CN,East Asia,30.57833,103.94694,735576,14.5,Sichuan Province Airport Group,https://www.cdairport.com/en/
+44,Soekarno–Hatta International Airport,CGK,WIII,Jakarta,Indonesia,ID,Southeast Asia,-6.12556,106.65583,681000,,InJourney Airports,https://soekarnohatta.injourneyairports.id/
+45,Hartsfield–Jackson Atlanta International Airport,ATL,KATL,Atlanta,United States,US,North America,33.63667,-84.42806,640494,-0.8,City of Atlanta Department of Aviation,https://www.atl.com/
+46,Al Maktoum International Airport,DWC,OMDW,Dubai,United Arab Emirates,AE,West Asia,24.88828,55.16038,600000,,Dubai Airports,https://dwc.dubaiairports.ae/
+47,Chongqing Jiangbei International Airport,CKG,ZUCK,Chongqing,China,CN,East Asia,29.71917,106.64167,548485,16.8,Chongqing Airport Group Co.,https://www.cqa.cn/
+48,Tan Son Nhat International Airport,SGN,VVTS,Ho Chi Minh City,Vietnam,VN,Southeast Asia,10.81889,106.65194,531000,8.0,Airports Corporation of Vietnam (ACV),https://acv.vn/tansonnhatairport/en/
+49,Kempegowda International Airport,BLR,VOBL,Bengaluru,India,IN,South Asia,13.19889,77.70556,520985,5.0,Bangalore International Airport Ltd (BIAL),https://www.bengaluruairport.com/
+50,Nanjing Lukou International Airport,NKG,ZSNJ,Nanjing,China,CN,East Asia,31.74222,118.86194,476682,15.0,Eastern Airport Group,https://www.njairport.cn
