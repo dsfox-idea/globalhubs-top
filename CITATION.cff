@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them using the metadata below."
+title: "globalhubs.top — open datasets of the world's largest freight transport hubs"
+abstract: >-
+  Open datasets of the world's largest freight transport hubs across three
+  dimensions: maritime (container ports by TEU), aviation (cargo airports by
+  metric tonnes) and land (inland freight terminals by TEU). Each row carries
+  country, coordinates, the ranking metric, year-over-year change and, where
+  verified, operator and official website. Passengers are out of scope.
+type: dataset
+authors:
+  - family-names: Golubnichiy
+    given-names: Dmitry
+    orcid: "https://orcid.org/0009-0007-3307-2202"
+    website: "https://globalhubs.top"
+url: "https://globalhubs.top"
+repository-code: "https://github.com/dsfox-idea/globalhubs-top"
+license: CC0-1.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21058128
+    description: "Maritime — container ports"
+  - type: doi
+    value: 10.5281/zenodo.21058130
+    description: "Aviation — cargo airports"
+  - type: doi
+    value: 10.5281/zenodo.21058132
+    description: "Land — inland freight terminals"
+keywords:
+  - freight
+  - logistics
+  - transport
+  - ports
+  - airports
+  - intermodal
+  - geospatial
+  - open-data
