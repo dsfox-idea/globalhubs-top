@@ -78,7 +78,7 @@ ORDER BY rank LIMIT 10;
 
 **Notebooks (Kaggle):**
 [starter](https://www.kaggle.com/code/dsfoxx/worlds-largest-inland-freight-hubs-starter)
-· [EDA](https://www.kaggle.com/code/dsfoxx/worlds-largest-inland-freight-hubs-eda).
+· [EDA](https://www.kaggle.com/code/dsfoxx/worlds-largest-inland-freight-hubs-analysis).
 
 ## License
 
