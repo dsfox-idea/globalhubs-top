@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Largest Air Cargo Carriers (open dataset)"
+abstract: >-
+  The world's largest air cargo carriers ranked by 2024 cargo tonne-kilometres (CTK), covering freighter operators, combination carriers and integrators, with HQ location, tonnes and disclosed revenue. Part of globalhubs.top.
+type: dataset
+authors:
+  - family-names: Golubnichiy
+    given-names: Dmitry
+    orcid: "https://orcid.org/0009-0007-3307-2202"
+    website: "https://globalhubs.top"
+url: "https://globalhubs.top"
+repository: "https://github.com/dsfox-idea/globalhubs-top"
+license: CC0-1.0
+doi: 10.5281/zenodo.21115072
+keywords:
+  - aviation
+  - air-cargo
+  - cargo-airlines
+  - carriers
+  - CTK
+  - FTK
+  - IATA
+  - logistics

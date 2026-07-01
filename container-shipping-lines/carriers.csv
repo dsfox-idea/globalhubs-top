@@ -1,0 +1,51 @@
+rank,company,country,country_iso2,region,hq_city,latitude,longitude,teu_capacity_k,ships,market_share_pct,brands,revenue_usd_m,revenue_fy,website,source
+1,MSC (Mediterranean Shipping Company),Switzerland,CH,Europe,Geneva,46.2044,6.1432,7341.9,1001,21.5,"WEC Lines, Log-In",n/d,n/d,https://www.msc.com,https://alphaliner.axsmarine.com/PublicTop100/
+2,Maersk (A.P. Moller-Maersk),Denmark,DK,Europe,Copenhagen,55.6867,12.598,4728.6,747,13.8,"Sealand, Hamburg Sud, Alianca",54000,FY2025,https://www.maersk.com,https://alphaliner.axsmarine.com/PublicTop100/
+3,CMA CGM Group,France,FR,Europe,Marseille,43.2965,5.3698,4374.8,731,12.8,"APL, ANL, CNC, Containerships, Mercosul",54400,FY2025,https://www.cma-cgm.com,https://alphaliner.axsmarine.com/PublicTop100/
+4,COSCO Shipping Lines,China,CN,East Asia,Shanghai,31.2304,121.4737,3633.0,560,10.6,"OOCL, Pan Asia, Coheung",30540,FY2025,https://www.coscoshipping.com,https://alphaliner.axsmarine.com/PublicTop100/
+5,Hapag-Lloyd,Germany,DE,Europe,Hamburg,53.5461,9.9917,2384.5,286,7.0,"CSAV, UASC, NileDutch, DAL",21100,FY2025,https://www.hapag-lloyd.com,https://alphaliner.axsmarine.com/PublicTop100/
+6,Ocean Network Express (ONE),Singapore,SG,Southeast Asia,Singapore,1.283,103.8514,2162.1,275,6.3,none,19233,FY2024 (Apr-Mar),https://www.one-line.com,https://alphaliner.axsmarine.com/PublicTop100/
+7,Evergreen Marine,Taiwan,TW,East Asia,Taoyuan,25.0169,121.301,2006.3,241,5.9,Italia Marittima,12160,FY2025,https://www.evergreen-marine.com,https://alphaliner.axsmarine.com/PublicTop100/
+8,HMM,South Korea,KR,East Asia,Seoul,37.5665,126.978,1033.6,97,3.0,none,7662,FY2025,https://www.hmm21.com,https://alphaliner.axsmarine.com/PublicTop100/
+9,Yang Ming Marine Transport,Taiwan,TW,East Asia,Keelung,25.1276,121.7392,757.2,99,2.2,none,5247,FY2025,https://www.yangming.com,https://alphaliner.axsmarine.com/PublicTop100/
+10,ZIM Integrated Shipping Services,Israel,IL,Middle East,Haifa,32.794,34.9896,694.1,115,2.0,Gold Star Line,6904,FY2025,https://www.zim.com,https://alphaliner.axsmarine.com/PublicTop100/
+11,Wan Hai Lines,Taiwan,TW,East Asia,Taipei,25.033,121.5654,615.6,123,1.8,none,4503,FY2025,https://www.wanhai.com,https://alphaliner.axsmarine.com/PublicTop100/
+12,PIL (Pacific International Lines),Singapore,SG,Southeast Asia,Singapore,1.29,103.8,443.5,99,1.3,"ACL, MELL",4305,FY2024,https://www.pilship.com,https://alphaliner.axsmarine.com/PublicTop100/
+13,X-Press Feeders,Singapore,SG,Southeast Asia,Singapore,1.2799,103.8514,197.9,106,0.6,none,n/d,n/d,https://www.x-pressfeeders.com,https://alphaliner.axsmarine.com/PublicTop100/
+14,SITC International,China,CN,East Asia,Hong Kong,22.2793,114.1628,186.7,121,0.6,none,3058,FY2024,https://www.sitc.com,https://alphaliner.axsmarine.com/PublicTop100/
+15,KMTC (Korea Marine Transport),South Korea,KR,East Asia,Seoul,37.5665,126.978,155.7,65,0.5,none,2107,FY2025,https://www.kmtc.co.kr,https://alphaliner.axsmarine.com/PublicTop100/
+16,Unifeeder (DP World),United Arab Emirates,AE,Middle East,Dubai,25.2048,55.2708,150.5,88,0.4,"Feedertech, Shreyas, Transworld Feeders",n/d,n/d,https://www.unifeeder.com,https://alphaliner.axsmarine.com/PublicTop100/
+17,IRISL Group,Iran,IR,Middle East,Tehran,35.6892,51.389,140.2,27,0.4,"HDS Lines, Valfajr, Khazar",n/d,n/d,https://www.irisl.net,https://alphaliner.axsmarine.com/PublicTop100/
+18,Global Feeder Shipping (AD Ports),United Arab Emirates,AE,Middle East,Dubai,25.1857,55.2769,126.7,50,0.4,"SAFEEN Feeders, Transmar",n/d,n/d,https://www.globalfeeders.com,https://alphaliner.axsmarine.com/PublicTop100/
+19,Sinokor Merchant Marine,South Korea,KR,East Asia,Seoul,37.5665,126.978,120.1,68,0.4,Heung-A,2494,FY2024,https://www.sinokor.co.kr,https://alphaliner.axsmarine.com/PublicTop100/
+20,Emirates Shipping Line,United Arab Emirates,AE,Middle East,Dubai,25.2048,55.2708,113.0,23,0.3,none,n/d,n/d,https://www.emiratesline.com,https://alphaliner.axsmarine.com/PublicTop100/
+21,TS Lines,Taiwan,TW,East Asia,Taipei,25.082,121.545,107.7,41,0.3,none,1340,FY2024,https://www.tslines.com,https://alphaliner.axsmarine.com/PublicTop100/
+22,RCL (Regional Container Lines),Thailand,TH,Southeast Asia,Bangkok,13.69,100.539,99.6,34,0.3,none,1051,FY2024,https://www.rclgroup.com,https://alphaliner.axsmarine.com/PublicTop100/
+23,Ningbo Ocean Shipping,China,CN,East Asia,Ningbo,29.8203,121.6198,92.3,92,0.3,none,850,FY2025 (group),https://www.nbosco.com,https://alphaliner.axsmarine.com/PublicTop100/
+24,Interasia Lines,Japan,JP,East Asia,Tokyo,35.672,139.759,85.1,28,0.2,none,n/d,n/d,https://www.interasia.cc,https://alphaliner.axsmarine.com/PublicTop100/
+25,China United Lines (CULines),China,CN,East Asia,Shanghai,31.2304,121.4737,83.5,35,0.2,none,n/d,n/d,https://www.culines.com,https://alphaliner.axsmarine.com/PublicTop100/
+26,Tangshan Port Hede Shipping,China,CN,East Asia,Tangshan,39.6304,118.1801,80.5,56,0.2,none,n/d,n/d,https://www.shhede.com,https://alphaliner.axsmarine.com/PublicTop100/
+27,Grimaldi Group,Italy,IT,Europe,Naples,40.8518,14.2681,77.3,50,0.2,"ACL (Atlantic), Finnlines",n/d,n/d,https://www.grimaldi.napoli.it,https://alphaliner.axsmarine.com/PublicTop100/
+28,Antong Holdings (QASC / Ansheng),China,CN,East Asia,Quanzhou,24.8967,118.6759,73.4,72,0.2,none,1050,FY2024,https://www.qgsm.com,https://alphaliner.axsmarine.com/PublicTop100/
+29,SM Line,South Korea,KR,East Asia,Seoul,37.525,126.908,70.0,15,0.2,none,1255,FY2024,https://www.smlines.com,https://alphaliner.axsmarine.com/PublicTop100/
+30,Sinotrans,China,CN,East Asia,Beijing,39.97,116.423,68.7,42,0.2,none,n/d,n/d,https://www.sinotrans.com,https://alphaliner.axsmarine.com/PublicTop100/
+31,Matson,United States,US,North America,Honolulu,21.3069,-157.8583,67.8,27,0.2,none,3422,FY2024 (total co),https://www.matson.com,https://alphaliner.axsmarine.com/PublicTop100/
+32,Shanghai Jin Jiang Shipping,China,CN,East Asia,Shanghai,31.2222,121.4581,63.4,54,0.2,HASCO,976,FY2025,https://www.jjshipping.com,https://alphaliner.axsmarine.com/PublicTop100/
+33,Swire Shipping,Singapore,SG,Southeast Asia,Singapore,1.301,103.86,59.5,30,0.2,"Westwood, Tasman Orient",n/d,n/d,https://www.swireshipping.com,https://alphaliner.axsmarine.com/PublicTop100/
+34,Zhonggu Logistics,China,CN,East Asia,Shanghai,31.2304,121.4737,58.7,64,0.2,none,1477,FY2025,https://www.zhonggushipping.com,https://alphaliner.axsmarine.com/PublicTop100/
+35,Akkon Lines,Turkey,TR,Europe,Istanbul,41.0225,29.0503,53.2,36,0.2,none,n/d,n/d,https://www.akkonlines.com,https://alphaliner.axsmarine.com/PublicTop100/
+36,FESCO,Russia,RU,Europe,Moscow,55.75,37.647,52.4,36,0.2,FESCO ESF,n/d,n/d,https://www.fesco.com,https://alphaliner.axsmarine.com/PublicTop100/
+37,Arkas Line / EMES,Turkey,TR,Europe,Izmir,38.437,27.1428,51.1,32,0.1,EMES,n/d,n/d,https://www.arkas.com.tr,https://alphaliner.axsmarine.com/PublicTop100/
+38,Seaboard Marine,United States,US,North America,"Medley (Miami), FL",25.8462,-80.3255,45.5,22,0.1,none,1605,FY2025 (Marine segment),https://www.seaboardmarine.com,https://alphaliner.axsmarine.com/PublicTop100/
+39,Samudera Shipping Line,Singapore,SG,Southeast Asia,Singapore,1.2799,103.8514,45.0,32,0.1,Foremost Maritime,532,FY2024,https://www.samudera.com,https://alphaliner.axsmarine.com/PublicTop100/
+40,Tailwind Shipping Lines (Schwarz/Lidl),Germany,DE,Europe,Neckarsulm,49.1919,9.2249,43.4,12,0.1,none,n/d,n/d,https://www.tailwind-shipping.com,https://alphaliner.axsmarine.com/PublicTop100/
+41,Meratus Line,Indonesia,ID,Southeast Asia,Surabaya,-7.2318,112.7378,42.0,63,0.1,none,n/d,n/d,https://www.meratusline.com,https://alphaliner.axsmarine.com/PublicTop100/
+42,Namsung Shipping,South Korea,KR,East Asia,Seoul,37.5665,126.995,39.8,30,0.1,none,554,FY2024,https://www.namsung.co.kr,https://alphaliner.axsmarine.com/PublicTop100/
+43,Tanto Intim Line,Indonesia,ID,Southeast Asia,Surabaya,-7.228,112.735,38.6,57,0.1,none,n/d,n/d,https://www.tantonet.com,https://alphaliner.axsmarine.com/PublicTop100/
+44,Salam Pacific Indonesia Lines (SPIL),Indonesia,ID,Southeast Asia,Surabaya,-7.2153,112.7331,31.0,44,0.1,none,n/d,n/d,https://www.spil.co.id,https://alphaliner.axsmarine.com/PublicTop100/
+45,Great White Fleet (Chiquita),United States,US,North America,"Dania Beach, FL",26.0512,-80.1439,27.3,13,0.1,none,n/d,n/d,https://www.greatwhitefleet.com,https://alphaliner.axsmarine.com/PublicTop100/
+46,Linea Messina,Italy,IT,Europe,Genoa,44.4056,8.9463,25.8,10,0.1,none,316,FY2024 (total co),https://www.messinaline.it,https://alphaliner.axsmarine.com/PublicTop100/
+47,Hainan Yangpu Newnew Shipping,China,CN,East Asia,Yangpu,19.728,109.213,21.9,8,0.1,none,n/d,n/d,https://www.newnewshipping.com,https://alphaliner.axsmarine.com/PublicTop100/
+48,Dole Ocean Liner Express,United States,US,North America,"Charlotte, NC",35.2271,-80.8431,21.2,16,0.1,none,n/d,n/d,https://www.dole.com,https://alphaliner.axsmarine.com/PublicTop100/
+49,CK Line (Chun Kyung),South Korea,KR,East Asia,Seoul,37.566,126.991,20.0,18,0.1,none,296,FY2024,https://www.ckline.co.kr,https://alphaliner.axsmarine.com/PublicTop100/
+50,Sea Legend Shipping,Singapore,SG,Southeast Asia,Singapore,1.283,103.851,20.0,8,0.1,none,n/d,n/d,https://www.slg-shipping.com,https://alphaliner.axsmarine.com/PublicTop100/

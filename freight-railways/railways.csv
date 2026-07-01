@@ -1,0 +1,31 @@
+rank,company,country,country_iso2,region,hq_city,latitude,longitude,net_tkm_bn,tonnes_mt,year,revenue_usd_m,website,source
+1,China State Railway Group,China,CN,East Asia,Beijing,39.9066,116.3131,3258.06,3985,2024,n/d,https://www.china-railway.com.cn,https://www.nra.gov.cn/xwzx/zlzx/hytj/202506/t20250606_348988.shtml
+2,Russian Railways (RZD),Russia,RU,Europe,Moscow,55.7686,37.6533,2523.8,1181.4,2024,25900,https://company.rzd.ru,https://portnews.ru/news/372119/
+3,Indian Railways,India,IN,South Asia,New Delhi,28.6159,77.2114,973.97,1588.06,FY2023-24,20000,https://indianrailways.gov.in,https://indianrailways.gov.in
+4,BNSF Railway,United States,US,North America,Fort Worth,32.8634,-97.3266,843.4,486.9,2024,22833,https://www.bnsf.com,https://www.bnsf.com/about-bnsf/financial-information/
+5,Union Pacific,United States,US,North America,Omaha,41.2593,-95.9352,598.15,n/d,2024,22811,https://www.up.com,https://www.sec.gov/Archives/edgar/data/0000100885/000010088525000042/unp-20241231.htm
+6,CN (Canadian National),Canada,CA,North America,Montreal,45.5064,-73.5611,343.88,n/d,2024,11700,https://www.cn.ca,https://www.cn.ca/en/investors/
+7,CPKC (Canadian Pacific Kansas City),Canada,CA,North America,Calgary,50.9905,-114.0007,308.72,n/d,2024,10150,https://www.cpkcr.com,https://www.sec.gov/Archives/edgar/data/16875/000001687525000004/exhibit991-q42024earningsr.htm
+8,CSX,United States,US,North America,Jacksonville,30.3245,-81.6641,283.67,n/d,2024,13197,https://www.csx.com,https://www.sec.gov/Archives/edgar/data/277948/000027794825000008/csx-20241231.htm
+9,KTZ (Kazakhstan Temir Zholy),Kazakhstan,KZ,Central Asia,Astana,51.1305,71.4213,272.1,303.2,2024,3982,https://www.railways.kz,https://interfax.kz/?lang=rus&int_id=22&news_id=118994
+10,Norfolk Southern,United States,US,North America,Atlanta,33.7724,-84.3874,259.87,n/d,2024,12123,https://www.norfolksouthern.com,https://www.sec.gov/Archives/edgar/data/0000702165/000070216525000008/nsc-20241231.htm
+11,Ukrzaliznytsia,Ukraine,UA,Europe,Kyiv,50.4199,30.5258,113.24,174.9,2024,2030,https://www.uz.gov.ua,https://www.ukrstat.gov.ua
+12,Rumo,Brazil,BR,South America,Curitiba,-25.448,-49.2148,79.8,62.3,2024,2378,https://www.rumolog.com,https://ri.rumolog.com
+13,DB Cargo,Germany,DE,Europe,Mainz,49.9948,8.2808,68.5,179.8,2024,5845,https://www.dbcargo.com,https://ibir.deutschebahn.com/2024/
+14,MRS Logistica,Brazil,BR,South America,Rio de Janeiro,-22.9422,-43.1818,68.1,202.5,2024,1298,https://www.mrs.com.br,https://www.gov.br/antt/
+15,GMXT / Ferromex,Mexico,MX,North America,Mexico City,19.405,-99.2394,67.84,77.0,2024,n/d,https://gmxt.mx,https://gmxt.mx
+16,Pacific National,Australia,AU,Oceania,North Sydney,-33.8403,151.2059,45.1,n/d,FY2025,n/d,https://www.pacificnational.com.au,https://www.pacificnational.com.au
+17,Aurizon,Australia,AU,Oceania,Brisbane,-27.4545,153.0386,43.4,255.6,FY2024,1579,https://www.aurizon.com.au,https://www.aurizon.com.au
+18,VLI Logistica,Brazil,BR,South America,Belo Horizonte,-19.9185,-43.9329,41.9,60.1,2024,n/d,https://www.vli-logistica.com.br,https://www.vli-logistica.com.br
+19,Uzbekistan Railways,Uzbekistan,UZ,Central Asia,Tashkent,41.3033,69.2763,27.9,105.7,2025,n/d,https://railway.uz,https://railway.uz/en/
+20,Rail Cargo Group (OBB),Austria,AT,Europe,Vienna,48.1842,16.3763,27.3,79.9,2024,2136,https://www.railcargo.com,https://www.railcargo.com
+21,Mercitalia (FS Polo Logistica),Italy,IT,Europe,Rome,41.9086,12.5043,22.9,37,2024,1470,https://www.mercitaliarail.it,https://www.fsitaliane.it
+22,PKP Cargo,Poland,PL,Europe,Warsaw,52.2224,20.9873,17.98,70.8,2024,1120,https://www.pkpcargo.com,https://www.pkpcargo.com
+23,JR Freight,Japan,JP,East Asia,Tokyo,35.6301,139.744,17.5,26.5,FY2023,1245,https://www.jrfreight.co.jp,https://www.jrfreight.co.jp
+24,SAR (Saudi Arabia Railways),Saudi Arabia,SA,Middle East,Riyadh,24.8565,46.7675,16.43,15.6,2024,n/d,https://www.sar.com.sa,https://www.stats.gov.sa
+25,Fret SNCF / Rail Logistics Europe,France,FR,Europe,Saint-Denis,48.9205,2.3526,13.7,n/d,2024,1995,https://www.rle-group.com,https://www.rle-group.com
+26,TCDD Tasimacilik,Turkey,TR,Europe,Ankara,39.9322,32.8358,10.55,26.08,2024,228,https://www.tcddtasimacilik.gov.tr,https://www.tcddtasimacilik.gov.tr
+27,Green Cargo,Sweden,SE,Europe,Stockholm,59.3469,18.0382,9.7,n/d,2024,433,https://www.greencargo.com,https://www.greencargo.com
+28,KORAIL (freight),South Korea,KR,East Asia,Daejeon,36.3258,127.434,5.53,21.3,2023,206,https://info.korail.com,https://info.korail.com
+29,ZSSK Cargo,Slovakia,SK,Europe,Bratislava,48.1631,17.1571,4.72,24.02,2024,285,https://www.zscargo.sk,https://www.zscargo.sk
+30,Renfe Mercancias,Spain,ES,Europe,Madrid,40.4757,-3.6783,3.9,10.38,2024,181,https://www.renfe.com,https://www.renfe.com
